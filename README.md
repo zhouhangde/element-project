@@ -16,5 +16,5 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-####解决3.10.0端口不断变动的问题
+####解决3.10.0端口不断变动的问题,端口为5位数
 npm install portfinder@1.0.21
